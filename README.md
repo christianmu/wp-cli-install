@@ -1,11 +1,7 @@
-# Beschreibung
-
-Im Terminal auszuführende Skripte, mit welchem WordPress automatisch lokal installiert und deinstalliert werden kann (bei Verwendung von Windows müssen die entsprechenden Windows-Befehle gesetzt werden).
+# Anleitung
 
 Es sind die Datenbankinformationen anzupassen, sowie der Installationspfad. Dann:
 `sh install.sh` bzw. `sh uninstall.sh`.
-
-# Anleitung
 
 ### Voraussetzungen
 
