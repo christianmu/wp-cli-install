@@ -1,5 +1,3 @@
-# Anleitung
-
 Es sind die Datenbankinformationen anzupassen, sowie der Installationspfad. Dann:
 `sh install.sh` bzw. `sh uninstall.sh`.
 
